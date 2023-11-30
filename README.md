@@ -53,6 +53,3 @@ We welcome contributions from the community! To contribute to this project, foll
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
-
-Special thanks to the Django community and contributors for their valuable resources and support.
